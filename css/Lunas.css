@@ -1,0 +1,23 @@
+*{
+    background-color: #03384a;
+}
+p{
+    padding: 10px 150px 20px 00px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: serif;
+}
+.luna{
+    width: 160px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    border-color: white;
+    font-family: serif;
+}
+.luna:hover{
+    background-color: yellow;
+    transition: 0.5s;
+    width: 180;
+    font-family: serif;
+}

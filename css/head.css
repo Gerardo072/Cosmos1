@@ -1,0 +1,37 @@
+
+.body{
+    width: 1100px;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    background-color: white;
+}
+header{
+    background-color: white;
+}
+.flecha{
+    width: 25px;
+    margin: 5px 0px 0px 10px;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: white;
+    font-family: serif;
+}
+.flecha:hover{
+    background-color: darkorange;
+    transition: 0.5s;
+}
+.banner{
+    background-color: white;
+}
+a{
+    background-color: white;
+}
+.punto{
+    background-color: blue;
+}
+.d{
+    background-color: blue;
+}
